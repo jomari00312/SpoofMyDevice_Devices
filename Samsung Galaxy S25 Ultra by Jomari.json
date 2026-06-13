@@ -1,7 +1,7 @@
 {
     "id": "galaxy_s25_ultra",
     "brandLabel": "Samsung",
-    "modelLabel": "Galaxy S25 Ultra",
+    "modelLabel": "Galaxy S25 Ultra by Jomari",
     "summary": "Snapdragon 8 Elite for Galaxy - Android 16",
     "profile": {
         "brand": "samsung",
@@ -11,7 +11,7 @@
         "deviceCode": "Baklava",
         "board": "sun",
         "hardware": "qcom",
-        "boardPlatform": "otrinket",
+        "boardPlatform": "trinket",
         "buildFingerprint": "samsung/pa3qxxx/pa3q:15/AP3A.240905.015.A2/S938BXXU9CZDP:user/release-keys",
         "buildId": "AP3A.240905.015.A2",
         "buildDisplayId": "AP3A.240905.015.A2",
